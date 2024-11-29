@@ -16,7 +16,7 @@ firebase_credentials = json.loads(firebase_credentials_json)
 # Initialize Firebase Admin SDK
 cred = credentials.Certificate(firebase_credentials)
 firebase_admin.initialize_app(cred, {
-    "databaseURL": "https://<your-database-name>.firebaseio.com/"
+    "databaseURL": "https://ai-vs-human-art-project-default-rtdb.firebaseio.com/"
 })
 
 @app.route('/get-data', methods=['GET'])
