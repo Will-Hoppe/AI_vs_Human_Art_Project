@@ -1,0 +1,107 @@
+{
+    "paintingsData": {
+        "Lamentation by the Water": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "The Temptation of St. Anthony": {
+            "correct": 2,
+            "wrong": 1
+        },
+        "Angel of Divine Guidance": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "Baldassare Castiglione": {
+            "correct": 2,
+            "wrong": 1
+        },
+        "Madonna della Speranza": {
+            "correct": 2,
+            "wrong": 1
+        },
+        "Portrait of a Woman": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "The Annunciation": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "The Last Drop": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "Vase of Flowers": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "Queen Maria of France": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "Castle Falkenstein": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "K\u00fcstenlandschaft": {
+            "correct": 2,
+            "wrong": 1
+        },
+        "The Sower": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "Oedipus Cursing His Son": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "Elaine": {
+            "correct": 0,
+            "wrong": 3
+        },
+        "Banks of the Seine": {
+            "correct": 2,
+            "wrong": 1
+        },
+        "Sunset Over the Sierra": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "Solitary Streetlamp": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "Gas": {
+            "correct": 0,
+            "wrong": 3
+        },
+        "Akane no Y\u016b": {
+            "correct": 1,
+            "wrong": 2
+        },
+        "Building Workers in Snow": {
+            "correct": 3,
+            "wrong": 0
+        },
+        "The Grand Canal": {
+            "correct": 1,
+            "wrong": 1
+        },
+        "Pensieri Sospesi": {
+            "correct": 2,
+            "wrong": 0
+        },
+        "Autumn Light in the Park": {
+            "correct": 1,
+            "wrong": 1
+        },
+        "Waiting at the Window": {
+            "correct": 1,
+            "wrong": 1
+        }
+    },
+    "projectData": {
+        "total players": 3
+    }
+}
