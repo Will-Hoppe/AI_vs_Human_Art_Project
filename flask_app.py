@@ -3,9 +3,11 @@ from flask import Flask, request, jsonify
 import firebase_admin
 from firebase_admin import credentials, db
 import json
+from flask_cors import CORS
 
 # Initialize Flask app
 app = Flask(__name__)
+CORS(app)
 
 # Load Firebase credentials from environment variable
 firebase_credentials_json = os.getenv("FIREBASE_CREDENTIALS")
